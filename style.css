@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    transition: all 0.5s ease;
+}
+
+body {
+    background-color: aqua;
+}
+.line {
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+input {
+    width: 150px;
+    height: 30px;
+}
+button {
+
+    color: white;
+    width: 80px;
+    height: 30px;
+    background-color: lightcoral;
+}
+
